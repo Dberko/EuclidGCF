@@ -1,0 +1,1 @@
+Python script to calculate the greatest common factor of two numbers using Euclid's algorithm
